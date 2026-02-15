@@ -19,8 +19,12 @@ The application uses the following components:
 `client.c` Client-side implementation.
 -`Makefile`: Automates the generation of stubs and compilation.
 
+## How to BUILD
 
-## how to run
+ Run the follwoing command in your linux server:
+     Make
+
+## How to Run
   1. start the server on the remote machine
      ./server
   2. In a separate terminal, run the client pointing to the server's hostname:
